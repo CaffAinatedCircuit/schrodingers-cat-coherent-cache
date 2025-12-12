@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Rishik/Github/Schrodingers_cache/Schrodingers_cache.srcs/sources_1/new/schrodinger_cache.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module schrodinger_cache
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Rishik/Github/Schrodingers_cache/Schrodingers_cache.srcs/sources_1/new/schrodinger_line.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module schrodinger_line
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Rishik/Github/Schrodingers_cache/Schrodingers_cache.srcs/sources_1/new/schrodinger_mesi_system.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module schrodinger_mesi_system
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Rishik/Github/Schrodingers_cache/Schrodingers_cache.srcs/sim_1/new/tb_schrodinger_mesi.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_schrodinger_mesi
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Rishik/Github/Schrodingers_cache/Schrodingers_cache.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

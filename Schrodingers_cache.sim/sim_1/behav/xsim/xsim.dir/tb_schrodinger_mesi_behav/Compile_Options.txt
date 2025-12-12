@@ -1,0 +1,1 @@
+-wto "af1d1d72c8284f0a87c68c0e62dbfca9" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "tb_schrodinger_mesi_behav" "xil_defaultlib.tb_schrodinger_mesi" "xil_defaultlib.glbl" -log "elaborate.log" 

@@ -1,0 +1,4 @@
+Running: xsim.dir/tb_schrodinger_mesi_behav/xsimk.exe -simmode gui -wdb tb_schrodinger_mesi_behav.wdb -simrunnum 0 -socket 64514
+Design successfully loaded
+Design Loading Memory Usage: 8468 KB (Peak: 8468 KB)
+Design Loading CPU Usage: 0 ms

@@ -1,0 +1,9 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+F:/Rishik/Github/Schrodingers_cache/Schrodingers_cache.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+F:/Rishik/Github/Schrodingers_cache/Schrodingers_cache.srcs/sim_1/new/tb_schrodinger_mesi.v,1765290925,verilog,,,,tb_schrodinger_mesi,,,,,,,,
+F:/Rishik/Github/Schrodingers_cache/Schrodingers_cache.srcs/sources_1/new/schrodinger_cache.v,1765290796,verilog,,F:/Rishik/Github/Schrodingers_cache/Schrodingers_cache.srcs/sources_1/new/schrodinger_line.v,,schrodinger_cache,,,,,,,,
+F:/Rishik/Github/Schrodingers_cache/Schrodingers_cache.srcs/sources_1/new/schrodinger_line.v,1765290753,verilog,,F:/Rishik/Github/Schrodingers_cache/Schrodingers_cache.srcs/sources_1/new/schrodinger_mesi_system.v,,schrodinger_line,,,,,,,,
+F:/Rishik/Github/Schrodingers_cache/Schrodingers_cache.srcs/sources_1/new/schrodinger_mesi_system.v,1765290851,verilog,,F:/Rishik/Github/Schrodingers_cache/Schrodingers_cache.srcs/sim_1/new/tb_schrodinger_mesi.v,,schrodinger_mesi_system,,,,,,,,
