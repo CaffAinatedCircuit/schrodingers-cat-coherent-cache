@@ -279,8 +279,8 @@ endmodule
 
 ## The Drama: Testbench + Timeline
 
-![Schrodingers Cat Cache](images/architecture.png)
-![Schrodingers Cat Cache](images/waveform.png)
+![Schrodingers Cat Cache](images/Architecture.png)
+![Schrodingers Cat Cache](images/Waveform.png)
 
 The testbench runs a little narrative over 1000 ns.  
 Here’s what happened in your run:
